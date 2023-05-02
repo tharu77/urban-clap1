@@ -1,0 +1,173 @@
+.bgimg{
+    background-image: url('img/bg.jpeg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 1530px;
+    height: 555px;
+}
+
+.logo img{
+    margin-left: 110px;
+}
+
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+
+
+.headerset h1{
+    font-size: 48px;
+    
+}
+
+
+
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+
+.headerset h2{
+    font-size: 42px;
+
+}
+
+.ind{
+    width: 20px;
+    height: 14px;
+    object-fit: cover;
+    margin-left: 16px;
+}
+
+.india{
+    border-radius: 4px;
+    background-color: aliceblue;
+    min-width: 180px;
+    width: 80px;
+    height: 50px;
+    margin-left: 100px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    
+}
+
+/*
+......ourservices.....*/
+
+.ourservices{
+padding: 100px 0px 60px;
+height: 700px;
+}
+
+.rowsetting{
+    margin: 80px 0px !important ;
+}
+
+.imagesetting{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px; 
+}
+
+.fa-shopping-cart{
+    margin-top: 25px;
+}
+
+.fa-camera{
+    margin-top: 25px;
+
+}
+
+.fa-lock{
+    margin-top: 25px;
+}
+
+.rowsetting p{
+padding: 10px;
+color: #6c757d;
+}
+
+.rowsetting h2{
+    margin-top: 20px;
+}
+
+
+/*...portfolio...*/
+.card img{
+    width: 350px;
+    height: 350px;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+
+/*....team...*/
+.team h1{
+     margin-top: 40px;
+}
+
+.team{
+    height: 700px;
+    padding: 100px 0px 60px;
+    width: 100%;
+}
+
+.figure img{
+    width: 250px;
+    height: 250px;
+    
+}
+
+.row{
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-right: auto;
+}
+
+/*..footer..*/
+
+.footer{
+    height: 50px;
+}
+.footer h6{
+    line-height: 50px;
+}
+
+/*...Responsive...*/
+
+@media(min-width:992px){
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+    
+}
+
+
+@media(min-width: 460px) and (max-width: 574px){
+    
+}
+
+
+@media(max-width: 479px){
+    
+
+
+.ourservices{
+    
+    height: 1300px;
+    }
+
+    .footer h6{
+        line-height: 1800px;
+    }
+
+}
